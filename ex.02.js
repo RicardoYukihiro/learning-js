@@ -1,0 +1,6 @@
+console.log ("                MENU")
+console.log("1-  hot dog")
+console.log("2- sanduiche")
+console.log("3- coxinha")
+console.log("4- risole de queijo\n")
+console.log("0- sair")

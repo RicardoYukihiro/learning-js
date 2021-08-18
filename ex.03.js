@@ -1,0 +1,6 @@
+console.log (" \t\t\t\tMENU")
+console.log("1-\t\t\t\thot dog")
+console.log("2-\t\t\t\tsanduiche")
+console.log("3-\t\t\t\tcoxinha")
+console.log("4-\t\t\t\trisole de queijo\n")
+console.log("0-\t\t\t\tsair")
